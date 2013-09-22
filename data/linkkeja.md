@@ -8,7 +8,7 @@ sparrausyhteisöjen kiinnostuneiden jäsenten kanssa.
 
 Sparrausyhteisöjä
 =================
-[1] Innovaatiot & Journalismi Facebook-ryhmä
+[1] Innovaatiot & Journalismi Facebook-ryhmä: <br>
 [2] Finnish Open Data Ecosystem Facebook-ryhmä: https://www.facebook.com/groups-fi.okfn <br>
 [3] Virkamiesten avoin verkosto Facebook-ryhmä: https://www.facebook.com/groups-Virkamiestenavoinverkosto <br>
 [4] Avoin ministeriö Facebook-ryhmä: https://www.facebook.com/groups/Avoinministerio <br>
