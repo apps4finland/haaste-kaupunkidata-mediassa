@@ -2,4 +2,4 @@ Tämän haasteen ratkaisut osallistuvat johonkin neljästä pääsarjasta (Innos
 Hahmota, Vaikuta, Mahdollista). Täten ratkaisulla on mahdollisuus voittaa
 jokin sarjakohtaisista palkinnoista. Tätä haastetta ratkovalla kilpailutyöllä
 on LISÄKSI mahdollisuus voittaa erillinen haastepalkinto (2000 EUR), joka
-annetaan Demokratia & Kommunikaatio -haasteteeman voittajalle.
+annetaan Kaupunki & Media -haasteteeman voittajalle.
